@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6b5cc04-7be7-4eca-8dfd-6bcc485ab35e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pz3v6gYV0N0Z3B2dllYed1Xaq2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/junit/junit/4.13.2/junit-4.13.2.jar" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java_Proj\PT2021_30421_Iordan_Diana_Assignment_1\.idea" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="myPackage" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="myPackage" />
+      <recent name="" />
+      <recent name="myPackage.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_Proj\PT2021_30421_Iordan_Diana_Assignment_1\src\main\java\myPackage" />
+      <recent name="D:\Java_Proj\PT2021_30421_Iordan_Diana_Assignment_1\src\main\java\myPackage\view" />
+      <recent name="D:\Java_Proj\PT2021_30421_Iordan_Diana_Assignment_1\src\main\java\myPackage\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myPackage.Main" />
+      <module name="PT2021_30421_Iordan_Diana_Assignment_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in PT2021_30421_Iordan_Diana_Assignment_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PT2021_30421_Iordan_Diana_Assignment_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PT2021_30421_Iordan_Diana_Assignment_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DivisionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PT2021_30421_Iordan_Diana_Assignment_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PT2021_30421_Iordan_Diana_Assignment_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in PT2021_30421_Iordan_Diana_Assignment_1" />
+        <item itemvalue="JUnit.DivisionTest" />
+        <item itemvalue="JUnit.IntegrationTest" />
+        <item itemvalue="JUnit.MultiplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6b5cc04-7be7-4eca-8dfd-6bcc485ab35e" name="Default Changelist" comment="" />
+      <created>1616172321100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616172321100</updated>
+      <workItem from="1616172322388" duration="1701000" />
+      <workItem from="1616174248628" duration="4854000" />
+      <workItem from="1616231915364" duration="19536000" />
+      <workItem from="1616321078238" duration="589000" />
+      <workItem from="1616333448051" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1616176414384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616176414384" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616175273786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616175273786" />
+    <state x="1478" y="107" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1616246857635">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1478" y="107" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616246857635" />
+    <state x="484" y="237" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1616173600463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="237" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616173600463" />
+    <state x="1891" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1616247827272">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1891" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616247827272" />
+    <state x="434" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1616174455027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616174455027" />
+    <state x="466" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1616175195495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616175195495" />
+    <state x="464" y="143" key="#com.intellij.uiDesigner.palette.ComponentItemDialog" timestamp="1616175623043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="464" y="143" key="#com.intellij.uiDesigner.palette.ComponentItemDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616175623043" />
+    <state x="441" y="223" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616174225627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="223" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616174225627" />
+    <state x="484" y="105" key="FileChooserDialogImpl" timestamp="1616174469180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616174469180" />
+    <state width="1397" height="74" key="GridCell.Tab.0.bottom" timestamp="1616275317339">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180929354" />
+    <state width="1397" height="74" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616275317339" />
+    <state width="1397" height="74" key="GridCell.Tab.0.center" timestamp="1616275317339">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180929344" />
+    <state width="1397" height="74" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616275317339" />
+    <state width="1397" height="74" key="GridCell.Tab.0.left" timestamp="1616275317339">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180929344" />
+    <state width="1397" height="74" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616275317339" />
+    <state width="1397" height="74" key="GridCell.Tab.0.right" timestamp="1616275317339">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180929344" />
+    <state width="1397" height="74" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616275317339" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1616275317321">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180929354" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616275317321" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1616275317321">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180929354" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616275317321" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1616275317320">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180929354" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616275317320" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1616275317321">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180929354" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616275317321" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1616175096282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616175096282" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1616174668013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616174668013" />
+    <state x="453" y="244" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1616175896624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="244" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616175896624" />
+    <state x="228" y="99" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616180656274">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="228" y="99" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616180656274" />
+    <state x="1905" y="255" key="export.test.results" timestamp="1616271159724">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1905" y="255" key="export.test.results/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616271159724" />
+    <state x="341" y="25" key="new project wizard" timestamp="1616174355383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="25" key="new project wizard/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1616174355383" />
+    <state x="1749" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1616234279829">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1749" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1616234279829" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DivisionTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/myPackage/controller/MainController.java</url>
+          <line>21</line>
+          <properties class="myPackage.controller.MainController" method="initializeController">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
